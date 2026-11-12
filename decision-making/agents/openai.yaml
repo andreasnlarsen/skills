@@ -1,0 +1,4 @@
+interface:
+  display_name: "Decision Making"
+  short_description: "Facilitate, run, audit substantial company decisions"
+  default_prompt: "Use $decision-making to facilitate, run, or audit this substantial company decision as a structured decision record."

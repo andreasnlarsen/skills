@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pragmatic Programmer"
+  short_description: "Deep refactor, debugging, and changeability guidance"
+  default_prompt: "Use $pragmatic-programmer to diagnose why this code is hard to change, plan a safe refactor, or find the root cause of a failure."

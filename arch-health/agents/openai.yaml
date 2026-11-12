@@ -1,0 +1,4 @@
+interface:
+  display_name: "Arch Health"
+  short_description: "Audit architecture health, changeability risks, and concept-model gaps"
+  default_prompt: "Use $arch-health to audit this codebase for architecture health, split authority, rule scatter, concept-model gaps, and the main bottlenecks making future changes expensive."

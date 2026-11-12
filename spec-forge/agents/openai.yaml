@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spec Forge"
+  short_description: "Plan prototypes and implementation with clear requirements"
+  default_prompt: "Use $spec-forge to turn this idea, plan, or mockup into the appropriate next-stage plan or spec, with clear requirements, relevant technical decisions, and observable completion evidence."

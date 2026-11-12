@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review and Autofix"
+  short_description: "Scoped code review with bounded fixes and verification"
+  default_prompt: "Use $review-and-autofix to review my current changes and apply bounded fixes with relevant verification, using the skill's standard mode and round limits unless I choose otherwise."

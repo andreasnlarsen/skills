@@ -1,0 +1,4 @@
+interface:
+  display_name: "Musk’s Algorithm"
+  short_description: "Question, delete, simplify, accelerate, automate"
+  default_prompt: "Use $musk-algorithm to rethink this workflow from its purpose and the reasons behind each step."
